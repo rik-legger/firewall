@@ -18,7 +18,7 @@
     "require": {
         "php": "^8.3",
         "illuminate/support": "^12.0",
-        "pragmarx/support": "dev-feature/laravel-11"
+        "pragmarx/support": "dev-feature/laravel-12"
     },
     "require-dev": {
         "phpunit/phpunit": "^12.1",
